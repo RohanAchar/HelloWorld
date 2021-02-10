@@ -1,0 +1,13 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 6C6E-9C41
+
+ Directory of D:\Career\Norton Internship\Jenkins\Programs
+
+10-02-2021  16:41    <DIR>          .
+10-02-2021  16:41    <DIR>          ..
+10-02-2021  16:35               675 Hello.class
+10-02-2021  12:20               152 Hello.java
+10-02-2021  16:41                 0 HelloRohan.txt
+10-02-2021  16:30                35 test2.txt
+               4 File(s)            862 bytes
+               2 Dir(s)  814,409,924,608 bytes free
